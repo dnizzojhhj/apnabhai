@@ -106,7 +106,7 @@ SPECIAL_KEY_PRICES = {
 # Image configuration
 START_IMAGES = [
     {
-        'url': 'https://files.oaiusercontent.com/file-HwjNJUPmaJcdkPdJESzKV6?se=2025-04-22T18%3A35%3A31Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D366e5d97-0495-474b-aa2f-479b8121e6b5.png&sig=QIl2qCj9A7uMnw1yxtkh2mPcEd/GPi5meibwRGAdsuA%3D',
+        'url': 'https://files.catbox.moe/ehb4b7.png',
         'caption': (
             '🔥 *Welcome to the Ultimate DDoS Bot !*' + '\n\n'
             '💻 *Example:* `20.235.43.9 14533 120 100`' + '\n\n'
