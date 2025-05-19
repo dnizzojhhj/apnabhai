@@ -127,13 +127,6 @@ ATTACK_VIDEOS = [
     "https://files.catbox.moe/3honi0.mp4",
     "https://files.catbox.moe/xuhmq0.mp4",
     "https://files.catbox.moe/wjtilc.mp4",
-    "https://files.catbox.moe/bjoefq.mp4",
-    "https://files.catbox.moe/v4sd61.mp4",
-    "https://files.catbox.moe/tlyi6t.mp4",
-    "https://files.catbox.moe/0l95f3.mp4",
-    "https://files.catbox.moe/17yxhq.mp4",
-    "https://files.catbox.moe/9hpngs.mp4",
-    "https://files.catbox.moe/kpzzaj.mp4",
     "https://files.catbox.moe/mit6r7.mp4",
     "https://files.catbox.moe/edaojm.mp4",
     "https://files.catbox.moe/cnc8j7.mp4",
@@ -145,12 +138,12 @@ ATTACK_VIDEOS = [
 ]
 
 FINISH_VIDEOS = [
-    "https://files.catbox.moe/1cskm1.mp4",
     "https://files.catbox.moe/xr9y6b.mp4",
-    "https://files.catbox.moe/3honi0.mp4",
-    "https://files.catbox.moe/pacadw.mp4",
-    "https://files.catbox.moe/17yxhq.mp4",
-    "https://files.catbox.moe/cnc8j7.mp4"
+    "https://files.catbox.moe/cnc8j7.mp4",
+    "https://files.catbox.moe/s6wgor.mp4",
+    "https://files.catbox.moe/wjtilc.mp4",
+    "https://files.catbox.moe/4kmo3m.mp4",
+    "https://files.catbox.moe/em27tu.mp4"
 ]
 
 # File to store key data
